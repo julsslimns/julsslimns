@@ -13,7 +13,8 @@
 </div>
 
 ### Estou aprendendo 
-<div style="display: inline_block"><br>
+
+<div style="display: column"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
